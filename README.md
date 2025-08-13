@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**4leena/4leena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Aleena 👋
 
-Here are some ideas to get you started:
+🎓 CS & Math student at UNBC  
+💻 Junior Software Engineer 
+🌱 Currently learning **R** and **Full-Stack Development**  
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/aleenamukeer/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🚀 Skills
+- Programming: Python, JavaScript, R  
+- Web: HTML, CSS  
+- Tools: Git, GitHub  
+
+
